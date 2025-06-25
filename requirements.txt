@@ -1,3 +1,4 @@
 streamlit
-openai
+cohere
+pdfkit
 python-dotenv
